@@ -16,5 +16,8 @@
     "url": "https://github.com/papski1/midterm-exam-solution/issues"
   },
   "homepage": "https://github.com/papski1/midterm-exam-solution#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
